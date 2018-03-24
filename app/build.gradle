@@ -35,5 +35,5 @@ dependencies {
     compile 'com.contrarywind:Android-PickerView:3.2.7'
     compile 'com.google.code.gson:gson:2.8.1'
     compile 'com.google.code.gson:gson-parent:2.8.1'
-
+    compile 'com.github.PhilJay:MPAndroidChart:v3.0.1'
 }

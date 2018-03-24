@@ -10,6 +10,8 @@ import android.view.ViewGroup;
 
 import com.example.administrator.paccount.R;
 
+import Tools.ChartUtils;
+
 /**
  * A simple {@link Fragment} subclass.
  */
@@ -30,6 +32,7 @@ public class DiagramFragment extends Fragment {
                              Bundle savedInstanceState) {
         // Inflate the layout for this fragment
         return inflater.inflate(R.layout.fragment_diagram, container, false);
+
     }
 
 }
